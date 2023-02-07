@@ -1,0 +1,18 @@
+.col-12.text-center {
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 1200px;
+    height: 180px;
+    margin-bottom: 40px;
+}
+
+.col {
+    margin-bottom: 120px;
+}
+
+.row.justify-content-start.mb-5 {
+    margin-bottom: 20px;
+}
+.col-11.container {
+    height: 180px;
+}
